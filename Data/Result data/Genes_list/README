@@ -1,0 +1,3 @@
+List of genes generated in the codes:
+Raw = list obtained after processing the Fold Change data;
+genes_id = list of gene ids obtained from the string database.
