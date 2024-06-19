@@ -1,0 +1,17 @@
+Literature search:
+
+A literature search was conducted in 3 main databases: PubMed, Web Of Science and Scopus with the topics: Staphylococcus epidermidis and antibiotic resistance (search 1); 
+and Stapphylococcus epidermidis RP62A (search 2) with different search strings on 03/20/2024. Results found used to develop the literature review. 
+
+** Web of Science:
+• Search 01 = TS=("Staphylococcus epidermidis" OR "S. epidermidis") AND TS=("antibiotic resistance" OR "drug resistance" OR "antimicrobial resistance") 
+• Search 02 = TS=("Staphylococcus epidermidis RP62A" OR "S. epidermidis RP62A")
+
+** PubMed
+• Search 01 = ("Staphylococcus epidermidis" OR "S. epidermidis") AND ("antibiotic resistance" OR "drug resistance" OR "antimicrobial resistance")
+• Search 02 = ("Staphylococcus epidermidis RP62A" OR "S. epidermidis RP62A")
+
+
+** Scopus:
+• Search 01: TITLE-ABS-KEY(("Staphylococcus epidermidis" OR "S. epidermidis") AND ("antibiotic resistance" OR "drug resistance" OR "antimicrobial resistance" ))
+• Search 02: TITLE-ABS-KEY("Staphylococcus epidermidis RP62A" OR "S. epidermidis RP62A")
