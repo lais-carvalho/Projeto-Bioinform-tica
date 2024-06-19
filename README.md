@@ -4,7 +4,7 @@ Course work "Bioinformatics Project"
 Project: "Identificação das regulações genéticas envolvidas na resistência aos antibióticos vancomicina e daptomicina em espécies do grupo estafilococos coagulase-negativos"
 
 Student:
-- Laís Cristine Carvalho
+- Laís Cristine Carvalho (pg52536@alunos.uminho.pt)
 
 Advisor: 
 - Ângela França (afranca@ceb.uminho.pt)
