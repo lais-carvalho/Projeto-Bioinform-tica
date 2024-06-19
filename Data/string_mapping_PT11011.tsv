@@ -1,0 +1,149 @@
+#queryIndex	queryItem	stringId	preferredName	annotation
+1	adk	176279.SERP1810	adk	Adenylate kinase; Catalyzes the reversible transfer of the terminal phosphate group between ATP and AMP. Plays an important role in cellular energy homeostasis and in adenine nucleotide metabolism; Belongs to the adenylate kinase family.
+2	asnS	176279.SERP1024	asnS	asparaginyl-tRNA synthetase; Identified by match to protein family HMM PF00152; match to protein family HMM PF01336; match to protein family HMM TIGR00457.
+3	betA	176279.SERP2176	betA	Choline dehydrogenase; Involved in the biosynthesis of the osmoprotectant glycine betaine. Catalyzes the oxidation of choline to betaine aldehyde and betaine aldehyde to glycine betaine at the same rate.
+4	betB	176279.SERP2177	betB	Betaine aldehyde dehydrogenase; Identified by similarity to EGAD:97843; match to protein family HMM PF00171; match to protein family HMM TIGR01804; Belongs to the aldehyde dehydrogenase family.
+5	cysC	176279.SERP2185	cysC	Adenylylsulfate kinase; Catalyzes the synthesis of activated sulfate.
+6	cysH	176279.SERP2192	cysH	Phosophoadenylyl-sulfate reductase; Reduction of activated sulfate into sulfite. Belongs to the PAPS reductase family. CysH subfamily.
+7	cysJ	176279.SERP2191	cysJ	Sulfite reductase (NADPH) flavoprotein alpha-component; Component of the sulfite reductase complex that catalyzes the 6-electron reduction of sulfite to sulfide. This is one of several activities required for the biosynthesis of L-cysteine from sulfate. The flavoprotein component catalyzes the electron flow from NADPH -> FAD -> FMN to the hemoprotein component.
+8	cysK	176279.SERP0152	cysK	Cysteine synthase; Identified by similarity to SP:P37887; match to protein family HMM PF00291; match to protein family HMM TIGR01136; match to protein family HMM TIGR01139; Belongs to the cysteine synthase/cystathionine beta- synthase family.
+9	dltB	176279.SERP0519	dltB	dltB protein; Could be involved in the transport of activated D-alanine through the membrane.
+10	dltD	176279.SERP0521	dltD	dltD protein; Identified by match to protein family HMM PF04914; match to protein family HMM PF04915; match to protein family HMM PF04918.
+11	est	176279.SERP0449	est	Carboxylesterase; Identified by similarity to EGAD:18058.
+12	gidB	176279.SERP0005	gidB	Glucose-inhibited division protein B; Specifically methylates the N7 position of guanine in position 535 of 16S rRNA; Belongs to the methyltransferase superfamily. RNA methyltransferase RsmG family.
+13	glpD	176279.SERP0868	glpD	Aerobic glycerol-3-phosphate dehydrogenase; Identified by similarity to EGAD:18115; match to protein family HMM PF01224; match to protein family HMM PF01266; Belongs to the FAD-dependent glycerol-3-phosphate dehydrogenase family.
+14	gltD	176279.SERP0109	gltD	Glutamate synthase, small subunit; Identified by match to protein family HMM PF00070; match to protein family HMM TIGR01317.
+15	infC	176279.SERP1244	infC	Translation initiation factor IF-3; IF-3 binds to the 30S ribosomal subunit and shifts the equilibrum between 70S ribosomes and their 50S and 30S subunits in favor of the free subunits, thus enhancing the availability of 30S subunits on which protein synthesis initiation begins.
+16	miaB	176279.SERP0860	miaB	tRNA-i(6)A37 modification enzyme MiaB; Catalyzes the methylthiolation of N6-(dimethylallyl)adenosine (i(6)A), leading to the formation of 2-methylthio-N6- (dimethylallyl)adenosine (ms(2)i(6)A) at position 37 in tRNAs that read codons beginning with uridine.
+17	mtn	176279.SERP1166	mtn	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase; Catalyzes the irreversible cleavage of the glycosidic bond in both 5'-methylthioadenosine (MTA) and S-adenosylhomocysteine (SAH/AdoHcy) to adenine and the corresponding thioribose, 5'- methylthioribose and S-ribosylhomocysteine, respectively. Belongs to the PNP/UDP phosphorylase family. MtnN subfamily.
+18	norA	176279.SERP0353	norA	Quinolone resistance protein NorA; Identified by similarity to EGAD:18536; match to protein family HMM PF00083.
+19	pbp2	176279.SERP1020	pbp2	Penicillin-binding protein 2; Identified by match to protein family HMM PF00905; match to protein family HMM PF00912.
+20	radC	176279.SERP1225	SERP1225	Truncated DNA repair protein RadC; Disrupted by a copy of Tn554 may be nonfunctional; identified by match to protein family HMM PF04002; match to protein family HMM TIGR00608.
+21	recU	176279.SERP1019	recU	Recombination protein U; Endonuclease that resolves Holliday junction intermediates in genetic recombination. Cleaves mobile four-strand junctions by introducing symmetrical nicks in paired strands. Promotes annealing of linear ssDNA with homologous dsDNA. Required for DNA repair, homologous recombination and chromosome segregation; Belongs to the RecU family.
+22	rnpA	176279.SERP0002	rnpA	Ribonuclease P protein component; RNaseP catalyzes the removal of the 5'-leader sequence from pre-tRNA to produce the mature 5'-terminus. It can also cleave other RNA substrates such as 4.5S RNA. The protein component plays an auxiliary but essential role in vivo by binding to the 5'-leader sequence and broadening the substrate specificity of the ribozyme.
+23	rplA	176279.SERP0179	rplA	Ribosomal protein L1; Binds directly to 23S rRNA. The L1 stalk is quite mobile in the ribosome, and is involved in E site tRNA release.
+24	rplB	176279.SERP1828	rplB	Ribosomal protein L2; One of the primary rRNA binding proteins. Required for association of the 30S and 50S subunits to form the 70S ribosome, for tRNA binding and peptide bond formation. It has been suggested to have peptidyltransferase activity; this is somewhat controversial. Makes several contacts with the 16S rRNA in the 70S ribosome. Belongs to the universal ribosomal protein uL2 family.
+25	rplC	176279.SERP1831	rplC	Ribosomal protein L3; One of the primary rRNA binding proteins, it binds directly near the 3'-end of the 23S rRNA, where it nucleates assembly of the 50S subunit; Belongs to the universal ribosomal protein uL3 family.
+26	rplD	176279.SERP1830	rplD	Ribosomal protein L4; One of the primary rRNA binding proteins, this protein initially binds near the 5'-end of the 23S rRNA. It is important during the early stages of 50S assembly. It makes multiple contacts with different domains of the 23S rRNA in the assembled 50S subunit and ribosome.
+27	rplE	176279.SERP1819	rplE	Ribosomal protein L5; This is 1 of the proteins that binds and probably mediates the attachment of the 5S RNA into the large ribosomal subunit, where it forms part of the central protuberance. In the 70S ribosome it contacts protein S13 of the 30S subunit (bridge B1b), connecting the 2 subunits; this bridge is implicated in subunit movement. Contacts the P site tRNA; the 5S rRNA and some of its associated proteins might help stabilize positioning of ribosome-bound tRNAs.
+28	rplF	176279.SERP1816	rplF	Ribosomal protein L6; This protein binds to the 23S rRNA, and is important in its secondary structure. It is located near the subunit interface in the base of the L7/L12 stalk, and near the tRNA binding site of the peptidyltransferase center; Belongs to the universal ribosomal protein uL6 family.
+29	rplJ	176279.SERP0180	rplJ	Ribosomal protein L10; Forms part of the ribosomal stalk, playing a central role in the interaction of the ribosome with GTP-bound translation factors. Belongs to the universal ribosomal protein uL10 family.
+30	rplK	176279.SERP0178	rplK	Ribosomal protein L11; Forms part of the ribosomal stalk which helps the ribosome interact with GTP-bound translation factors.
+31	rplL	176279.SERP0181	rplL	Ribosomal protein L7/L12; Forms part of the ribosomal stalk which helps the ribosome interact with GTP-bound translation factors. Is thus essential for accurate translation; Belongs to the bacterial ribosomal protein bL12 family.
+32	rplM	176279.SERP1799	rplM	Ribosomal protein L13; This protein is one of the early assembly proteins of the 50S ribosomal subunit, although it is not seen to bind rRNA by itself. It is important during the early stages of 50S assembly.
+33	rplN	176279.SERP1821	rplN	Ribosomal protein L14; Binds to 23S rRNA. Forms part of two intersubunit bridges in the 70S ribosome; Belongs to the universal ribosomal protein uL14 family.
+34	rplP	176279.SERP1824	rplP	Ribosomal protein L16; Binds 23S rRNA and is also seen to make contacts with the A and possibly P site tRNAs; Belongs to the universal ribosomal protein uL16 family.
+35	rplR	176279.SERP1815	rplR	Ribosomal protein L18; This is one of the proteins that binds and probably mediates the attachment of the 5S RNA into the large ribosomal subunit, where it forms part of the central protuberance.
+36	rplT	176279.SERP1242	rplT	Ribosomal protein L20; Binds directly to 23S ribosomal RNA and is necessary for the in vitro assembly process of the 50S ribosomal subunit. It is not involved in the protein synthesizing functions of that subunit.
+37	rplU	176279.SERP1211	rplU	Ribosomal protein L21; This protein binds to 23S rRNA in the presence of protein L20; Belongs to the bacterial ribosomal protein bL21 family.
+38	rplV	176279.SERP1826	rplV	Ribosomal protein L22; This protein binds specifically to 23S rRNA; its binding is stimulated by other ribosomal proteins, e.g. L4, L17, and L20. It is important during the early stages of 50S assembly. It makes multiple contacts with different domains of the 23S rRNA in the assembled 50S subunit and ribosome (By similarity).
+39	rplW	176279.SERP1829	rplW	Ribosomal protein L23; One of the early assembly proteins it binds 23S rRNA. One of the proteins that surrounds the polypeptide exit tunnel on the outside of the ribosome. Forms the main docking site for trigger factor binding to the ribosome; Belongs to the universal ribosomal protein uL23 family.
+40	rplX	176279.SERP1820	rplX	Ribosomal protein L24; One of two assembly initiator proteins, it binds directly to the 5'-end of the 23S rRNA, where it nucleates assembly of the 50S subunit.
+41	rpmC	176279.SERP1823	rpmC	Ribosomal protein L29; Identified by match to protein family HMM PF00831; match to protein family HMM TIGR00012; Belongs to the universal ribosomal protein uL29 family.
+42	rpmD	176279.SERP1813	rpmD	Ribosomal protein L30; Identified by match to protein family HMM PF00327; match to protein family HMM TIGR01308.
+43	rpmF	176279.SERP0718	rpmF	Ribosomal protein L32; Identified by match to protein family HMM PF01783; match to protein family HMM TIGR01031; Belongs to the bacterial ribosomal protein bL32 family.
+44	rpmI	176279.SERP1243	rpmI	Ribosomal protein L35; Identified by match to protein family HMM PF01632; match to protein family HMM TIGR00001; Belongs to the bacterial ribosomal protein bL35 family.
+45	rpoA	176279.SERP1805	rpoA	DNA-directed RNA polymerase, alpha subunit; DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates.
+46	rpoC	176279.SERP0184	rpoC	DNA-directed RNA polymerase, beta' subunit; DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates.
+47	rpsB	176279.SERP0823	rpsB	Ribosomal protein S2; Identified by match to protein family HMM PF00318; match to protein family HMM TIGR01011; Belongs to the universal ribosomal protein uS2 family.
+48	rpsC	176279.SERP1825	rpsC	Ribosomal protein S3; Binds the lower part of the 30S subunit head. Binds mRNA in the 70S ribosome, positioning it for translation; Belongs to the universal ribosomal protein uS3 family.
+49	rpsD	176279.SERP1284	rpsD	Ribosomal protein S4; One of the primary rRNA binding proteins, it binds directly to 16S rRNA where it nucleates assembly of the body of the 30S subunit.
+50	rpsE	176279.SERP1814	rpsE	Ribosomal protein S5; With S4 and S12 plays an important role in translational accuracy; Belongs to the universal ribosomal protein uS5 family.
+51	rpsH	176279.SERP1817	rpsH	Ribosomal protein S8; One of the primary rRNA binding proteins, it binds directly to 16S rRNA central domain where it helps coordinate assembly of the platform of the 30S subunit; Belongs to the universal ribosomal protein uS8 family.
+52	rpsI	176279.SERP1798	rpsI	Ribosomal protein S9; Identified by match to protein family HMM PF00380; Belongs to the universal ribosomal protein uS9 family.
+53	rpsJ	176279.SERP1832	rpsJ	Ribosomal protein S10; Involved in the binding of tRNA to the ribosomes. Belongs to the universal ribosomal protein uS10 family.
+54	rpsK	176279.SERP1806	rpsK	Ribosomal protein S11; Located on the platform of the 30S subunit, it bridges several disparate RNA helices of the 16S rRNA. Forms part of the Shine- Dalgarno cleft in the 70S ribosome; Belongs to the universal ribosomal protein uS11 family.
+55	rpsM	176279.SERP1807	rpsM	Ribosomal protein S13/S18; Located at the top of the head of the 30S subunit, it contacts several helices of the 16S rRNA. In the 70S ribosome it contacts the 23S rRNA (bridge B1a) and protein L5 of the 50S subunit (bridge B1b), connecting the 2 subunits; these bridges are implicated in subunit movement. Contacts the tRNAs in the A and P-sites. Belongs to the universal ribosomal protein uS13 family.
+56	rpsN-2	176279.SERP1818	rpsN-2	Ribosomal protein S14; Binds 16S rRNA, required for the assembly of 30S particles and may also be responsible for determining the conformation of the 16S rRNA at the A site.
+57	rpsQ	176279.SERP1822	rpsQ	Ribosomal protein S17; One of the primary rRNA binding proteins, it binds specifically to the 5'-end of 16S ribosomal RNA.
+58	rpsR	176279.SERP0046	rpsR	Ribosomal protein S18; Binds as a heterodimer with protein S6 to the central domain of the 16S rRNA, where it helps stabilize the platform of the 30S subunit; Belongs to the bacterial ribosomal protein bS18 family.
+59	rpsS	176279.SERP1827	rpsS	Ribosomal protein S19; Protein S19 forms a complex with S13 that binds strongly to the 16S ribosomal RNA.
+60	sceD	176279.SERP1702	sceD	sceD protein; Is able to cleave peptidoglycan and affects clumping and separation of bacterial cells; Belongs to the transglycosylase family. SceD subfamily.
+61	secG	176279.SERP0448	secG	Preprotein translocase, SecG subunit; Involved in protein export. Participates in an early event of protein translocation (By similarity); Belongs to the SecG family.
+62	SERP0036	176279.SERP0036	SERP0036	Identified by match to protein family HMM PF01053.
+63	SERP0039	176279.SERP0039	SERP0039	Conserved hypothetical protein; Identified by similarity to OMNI:SA0433; match to protein family HMM PF00924.
+64	SERP0043	176279.SERP0043	SERP0043	Lysozyme domain protein.
+65	SERP0063	176279.SERP0063	SERP0063	Identified by match to protein family HMM PF00375; Belongs to the dicarboxylate/amino acid:cation symporter (DAACS) (TC 2.A.23) family.
+66	SERP0081	176279.SERP0081	SERP0081	Hypothetical protein; Identified by Glimmer2; putative.
+67	SERP0094	176279.SERP0094	SERP0094	Cysteine synthase/cystathionine beta-synthase family protein; Identified by match to protein family HMM PF00291.
+68	SERP0095	176279.SERP0095	SERP0095	Identified by match to protein family HMM PF01053.
+69	SERP0099	176279.SERP0099	SERP0099	ABC transporter, substrate-binding protein; Identified by match to protein family HMM PF03180; Belongs to the nlpA lipoprotein family.
+70	SERP0110	176279.SERP0110	SERP0110	Transcriptional regulator, LysR family; Identified by match to protein family HMM PF00126; match to protein family HMM PF03466; Belongs to the LysR transcriptional regulatory family.
+71	SERP0111	176279.SERP0111	SERP0111	Membrane protein, putative; Identified by match to protein family HMM PF03601.
+72	SERP0182	176279.SERP0182	SERP0182	Conserved hypothetical protein; Identified by similarity to EGAD:35187; match to protein family HMM PF05175.
+73	SERP0202	176279.SERP0202	SERP0202	Identified by match to protein family HMM PF01712.
+74	SERP0222	176279.SERP0222	SERP0222	Conserved hypothetical protein; Identified by similarity to OMNI:SA0624.
+75	SERP0224	176279.SERP0224	vraX	Conserved hypothetical protein; Identified by similarity to OMNI:SA0625.
+76	SERP0232	176279.SERP0232	SERP0232	Amino acid permease family protein; Identified by match to protein family HMM PF00324.
+77	SERP0245	176279.SERP0245	SERP0245	Transporter, putative; Identified by match to protein family HMM PF03176.
+78	SERP0246	176279.SERP0246	SERP0246	ABC transporter, substrate-binding protein, putative; Identified by match to protein family HMM PF04069.
+79	SERP0247	176279.SERP0247	SERP0247	Transcriptional regulator, putative.
+80	SERP0261	176279.SERP0261	SERP0261	Conserved hypothetical protein; Identified by similarity to OMNI:NTL01SA0583.
+81	SERP0286	176279.SERP0286	mnhF2	Na+/H+ antiporter, MnhF component, putative; Identified by match to protein family HMM PF04066; Belongs to the CPA3 antiporters (TC 2.A.63) subunit F family.
+82	SERP0308	176279.SERP0308	SERP0308	Conserved hypothetical protein; Identified by similarity to OMNI:NTL01SA0630.
+83	SERP0338	176279.SERP0338	SERP0338	Conserved hypothetical protein; Identified by similarity to OMNI:NTL01BH0402.
+84	SERP0343	176279.SERP0343	SERP0343	Hypothetical protein; Identified by Glimmer2; putative.
+85	SERP0350	176279.SERP0350	SERP0350	Hypothetical protein; Identified by Glimmer2; putative.
+86	SERP0351	176279.SERP0351	SERP0351	Conserved hypothetical protein; Identified by similarity to OMNI:NTL01SA0669.
+87	SERP0413	176279.SERP0413	SERP0413	GGDEF domain protein; Identified by match to protein family HMM PF00990; match to protein family HMM TIGR00254.
+88	SERP0450	176279.SERP0450	rnr	Exoribonuclease, VacB/RNase II family; 3'-5' exoribonuclease that releases 5'-nucleoside monophosphates and is involved in maturation of structured RNAs.
+89	SERP0458	176279.SERP0458	SERP0458	Identified by match to protein family HMM PF02386.
+90	SERP0618	176279.SERP0618	SERP0618	ComK family protein.
+91	SERP0628	176279.SERP0628	SERP0628	Hypothetical protein; Identified by Glimmer2; putative.
+92	SERP0717	176279.SERP0717	SERP0717	Conserved hypothetical protein; Identified by similarity to OMNI:SA1136; match to protein family HMM PF02620.
+93	SERP0817	176279.SERP0817	trmFO	Gid protein; Catalyzes the folate-dependent formation of 5-methyl-uridine at position 54 (M-5-U54) in all tRNAs; Belongs to the MnmG family. TrmFO subfamily.
+94	SERP0822	176279.SERP0822	SERP0822	Hypothetical protein; Identified by Glimmer2; putative.
+95	SERP0962	176279.SERP0962	SERP0962	ABC transporter, ATP-binding protein; Identified by match to protein family HMM PF00005.
+96	SERP1009	176279.SERP1009	SERP1009	Membrane protein, putative; Involved in the import of queuosine (Q) precursors, required for Q precursor salvage; Belongs to the vitamin uptake transporter (VUT/ECF) (TC 2.A.88) family. Q precursor transporter subfamily.
+97	SERP1015	176279.SERP1015	SERP1015	Conserved hypothetical protein; Identified by similarity to OMNI:NTL01SA1326; match to protein family HMM PF01170; Belongs to the methyltransferase superfamily.
+98	SERP1021	176279.SERP1021	SERP1021	Conserved hypothetical protein; Identified by similarity to OMNI:SA1491.
+99	SERP1031	176279.SERP1031	SERP1031	Conserved hypothetical protein; Identified by similarity to OMNI:SA1501.
+100	SERP1032	176279.SERP1032	SERP1032	Conserved hypothetical protein; Identified by similarity to OMNI:NTL01SA1344; Belongs to the UPF0302 family.
+101	SERP1173	176279.SERP1173	SERP1173	Transposase, IS200 family; Identified by similarity to EGAD:14951; match to protein family HMM PF01797.
+102	SERP1178	176279.SERP1178	SERP1178	Identified by match to protein family HMM PF01596.
+103	SERP1210	176279.SERP1210	SERP1210	Conserved hypothetical protein; Identified by similarity to OMNI:SA1701; match to protein family HMM PF04327.
+104	SERP1215	176279.SERP1215	SERP1215	Conserved hypothetical protein; Identified by similarity to OMNI:NTL01SA1531.
+105	SERP1225	176279.SERP1225	SERP1225	Truncated DNA repair protein RadC; Disrupted by a copy of Tn554 may be nonfunctional; identified by match to protein family HMM PF04002; match to protein family HMM TIGR00608.
+106	SERP1278	176279.SERP1278	SERP1278	Conserved hypothetical protein; Identified by similarity to OMNI:SA1763; match to protein family HMM PF01925.
+107	SERP1280	176279.SERP1280	SERP1280	Aminotransferase, class V; Identified by match to protein family HMM PF00266.
+108	SERP1283	176279.SERP1283	SERP1283	Hypothetical protein; Identified by Glimmer2; putative.
+109	SERP1320	176279.SERP1320	SERP1320	Conserved hypothetical protein TIGR01212; Identified by similarity to OMNI:SA1810; match to protein family HMM PF04055; match to protein family HMM TIGR01212.
+110	SERP1321	176279.SERP1321	SERP1321	Conserved hypothetical protein; Identified by similarity to OMNI:SA1811.
+111	SERP1335	176279.SERP1335	SERP1335	Conserved hypothetical protein; Identified by similarity to OMNI:SA1829.
+112	SERP1383	176279.SERP1383	SERP1383	Transcriptional regulator, Cro/CI family.
+113	SERP1434	176279.SERP1434	SERP1434	Conserved hypothetical protein; Identified by similarity to OMNI:SA1956.
+114	SERP1499	176279.SERP1499	SERP1499	Conserved hypothetical protein; Identified by similarity to OMNI:NTL01SA1924; match to protein family HMM PF01206; Belongs to the sulfur carrier protein TusA family.
+116	SERP1655	176279.SERP1655	SERP1655	Conserved domain protein; Identified by similarity to OMNI:NTL01SA1925.
+117	SERP1703	176279.SERP1703	SERP1703	Identified by similarity to EGAD:17778; match to protein family HMM PF00436; match to protein family HMM TIGR00621.
+118	SERP1846	176279.SERP1846	SERP1846	Transcriptional regulator, MarR family; Identified by match to protein family HMM PF01047.
+119	SERP1880	176279.SERP1880	ssaA1	Secretory antigen precursor SsaA; Not known; immunogenic protein.
+120	SERP1884	176279.SERP1884	SERP1884	Secretory antigen precursor SsaA, putative; Identified by match to protein family HMM PF05257.
+121	SERP1931	176279.SERP1931	SERP1931	DNA-3-methyladenine glycosylase; Identified by match to protein family HMM PF02245; match to protein family HMM TIGR00567; Belongs to the DNA glycosylase MPG family.
+122	SERP1950	176279.SERP1950	SERP1950	Membrane protein, putative; Identified by match to protein family HMM PF02698.
+123	SERP1951	176279.SERP1951	hrtA	ABC transporter, ATP-binding protein; Part of the ABC transporter complex hrt involved in hemin import. Responsible for energy coupling to the transport system (By similarity).
+124	SERP1952	176279.SERP1952	hrtB	ABC transporter, permease protein; Part of the ABC transporter complex hrt involved in hemin import. Responsible for the translocation of the substrate across the membrane (By similarity).
+125	SERP1980	176279.SERP1980	narT	Nitrite extrusion protein; Probably required for nitrate uptake under anoxic conditions. Also possibly involved in excretion of nitrite produced by the dissimilatory reduction of nitrate (By similarity).
+126	SERP1996	176279.SERP1996	SERP1996	Acetyltransferase, GNAT family; Identified by match to protein family HMM PF00583.
+127	SERP2003	176279.SERP2003	SERP2003	Amino acid ABC transporter, ATP-binding protein; Identified by similarity to EGAD:33113; match to protein family HMM PF00005.
+128	SERP2004	176279.SERP2004	SERP2004	Amino acid ABC transporter, permease protein; Identified by similarity to EGAD:28090; match to protein family HMM PF00528; match to protein family HMM TIGR01726.
+129	SERP2005	176279.SERP2005	SERP2005	Amino acid ABC transporter, amino acid-binding protein; Identified by similarity to SP:P42199; match to protein family HMM PF00497.
+130	SERP2023	176279.SERP2023	SERP2023	Transporter, putative; Identified by match to protein family HMM PF00083.
+131	SERP2034	176279.SERP2034	SERP2034	Amino acid permease family protein; Identified by match to protein family HMM PF00324.
+132	SERP2050	176279.SERP2050	SERP2050	Conserved hypothetical protein; Identified by similarity to OMNI:SA2489.
+133	SERP2079	176279.SERP2079	SERP2079	Conserved hypothetical protein; Identified by similarity to OMNI:SA2528.
+134	SERP2081	176279.SERP2081	SERP2081	Adhesion lipoprotein, putative; Identified by match to protein family HMM PF01297; Belongs to the bacterial solute-binding protein 9 family.
+135	SERP2115	176279.SERP2115	SERP2115	Pyruvate oxidase; Identified by similarity to EGAD:10763; match to protein family HMM PF00205; match to protein family HMM PF02775; match to protein family HMM PF02776; Belongs to the TPP enzyme family.
+136	SERP2117	176279.SERP2117	cidA	LrgA family protein; Increases the activity of extracellular murein hydrolases possibly by mediating their export via hole formation. Inhibited by the antiholin-like proteins LrgAB. In an unstressed cell, the LrgAB products probably inhibit the function of the CidAB proteins. When a cell is stressed by the addition of antibiotics or by other factors in the environment, the CidAB proteins possibly oligomerize within the bacterial cell membrane, creating lesions that disrupt the proton motive force, which in turn results in loss of cell viability. These lesions are also hypothesized to r [...] 
+137	SERP2130	176279.SERP2130	SERP2130	Conserved hypothetical protein.
+138	SERP2131	176279.SERP2131	copA	Cation-transporting ATPase, E1-E2 family; Involved in copper export.
+139	SERP2138	176279.SERP2138	isaA	Immunodominant antigen A, putative; Is able to cleave peptidoglycan; Belongs to the transglycosylase family. IsaA subfamily.
+140	SERP2178	176279.SERP2178	SERP2178	Conserved hypothetical protein; Identified by similarity to OMNI:NTL01SA2506; Belongs to the GbsR family.
+141	SERP2179	176279.SERP2179	SERP2179	Choline/carnitine/betaine transporter; Identified by match to protein family HMM PF02028; match to protein family HMM TIGR00842; Belongs to the BCCT transporter (TC 2.A.15) family.
+142	SERP2187	176279.SERP2187	SERP2187	Conserved hypothetical protein; Identified by similarity to EGAD:108052; match to protein family HMM PF01925.
+143	SERP2199	176279.SERP2199	SERP2199	Hypothetical protein; Identified by Glimmer2; putative.
+144	SERP2201	176279.SERP2201	SERP2201	Identified by match to protein family HMM PF00474; match to protein family HMM TIGR00813; Belongs to the sodium:solute symporter (SSF) (TC 2.A.21) family.
+145	SERP2413	176279.SERP2413	dus	Conserved hypothetical protein; Catalyzes the synthesis of 5,6-dihydrouridine (D), a modified base found in the D-loop of most tRNAs, via the reduction of the C5-C6 double bond in target uridines; Belongs to the Dus family.
+146	SERP2514	176279.SERP2514	SERP2514	Conserved hypothetical protein; Identified by similarity to GP:14020990; match to protein family HMM PF02583.
+148	spsA	176279.SERP0552	spsA	Signal peptidase IA, inactive; Identified by similarity to SP:P72364; match to protein family HMM PF00461; Belongs to the peptidase S26 family.
+149	thiI	176279.SERP1279	thiI	Thiamine biosynthesis protein ThiI; Catalyzes the ATP-dependent transfer of a sulfur to tRNA to produce 4-thiouridine in position 8 of tRNAs, which functions as a near-UV photosensor. Also catalyzes the transfer of sulfur to the sulfur carrier protein ThiS, forming ThiS-thiocarboxylate. This is a step in the synthesis of thiazole, in the thiamine biosynthesis pathway. The sulfur is donated as persulfide by IscS.
+150	topA	176279.SERP0816	topA	DNA topoisomerase I; Releases the supercoiling and torsional tension of DNA, which is introduced during the DNA replication and transcription, by transiently cleaving and rejoining one strand of the DNA duplex. Introduces a single-strand break via transesterification at a target site in duplex DNA. The scissile phosphodiester is attacked by the catalytic tyrosine of the enzyme, resulting in the formation of a DNA- (5'-phosphotyrosyl)-enzyme intermediate and the expulsion of a 3'-OH DNA strand. The free DNA strand then undergoes passage around the unbroken strand, thus removing DNA supe [...] 

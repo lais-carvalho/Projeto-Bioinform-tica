@@ -1,0 +1,85 @@
+#queryIndex	queryItem	stringId	preferredName	annotation
+1	aap	176279.SERP2398	aap	Accumulation associated protein; Identified by match to protein family HMM PF00746; match to protein family HMM PF04650; match to protein family HMM TIGR01167; match to protein family HMM TIGR01168.
+2	cysH	176279.SERP2192	cysH	Phosophoadenylyl-sulfate reductase; Reduction of activated sulfate into sulfite. Belongs to the PAPS reductase family. CysH subfamily.
+3	dltC	176279.SERP0520	dltC	D-alanyl carrier protein; Carrier protein involved in the D-alanylation of lipoteichoic acid (LTA). The loading of thioester-linked D-alanine onto DltC is catalyzed by D-alanine--D-alanyl carrier protein ligase DltA. The DltC- carried D-alanyl group is further transferred to cell membrane phosphatidylglycerol (PG) by forming an ester bond, probably catalyzed by DltD. D-alanylation of LTA plays an important role in modulating the properties of the cell wall in Gram-positive bacteria, influencing the net charge of the cell wall.
+4	dltD	176279.SERP0521	dltD	dltD protein; Identified by match to protein family HMM PF04914; match to protein family HMM PF04915; match to protein family HMM PF04918.
+5	ebh	176279.SERP1011	ebh	Cell wall associated fibronectin-binding protein; Identified by similarity to OMNI:SA1472; match to protein family HMM PF01468; match to protein family HMM PF02370; match to protein family HMM PF02524; match to protein family HMM PF04508; match to protein family HMM PF04650; match to protein family HMM TIGR01168.
+6	geh-1	176279.SERP2297	geh-1	Lipase; Identified by similarity to GP:2981225; match to protein family HMM PF04650; match to protein family HMM TIGR01168; Belongs to the AB hydrolase superfamily. Lipase family.
+7	geh-2	176279.SERP2388	geh-2	Lipase; Identified by similarity to GP:3789932; match to protein family HMM PF04650; match to protein family HMM TIGR01168.
+8	gldA	176279.SERP2346	gldA	Glycerol dehydrogenase; Identified by similarity to SP:P32665; match to protein family HMM PF00465.
+9	glpD	176279.SERP0868	glpD	Aerobic glycerol-3-phosphate dehydrogenase; Identified by similarity to EGAD:18115; match to protein family HMM PF01224; match to protein family HMM PF01266; Belongs to the FAD-dependent glycerol-3-phosphate dehydrogenase family.
+10	glpT	176279.SERP2060	glpT	Glycerol-3-phosphate transporter; Identified by similarity to EGAD:8163; match to protein family HMM PF00083; match to protein family HMM TIGR00712; match to protein family HMM TIGR00881.
+11	gltS	176279.SERP1935	gltS	Sodium:glutamate symporter; Catalyzes the sodium-dependent transport of glutamate. Belongs to the glutamate:Na(+) symporter (ESS) (TC 2.A.27) family.
+12	icaR	176279.SERP2292	icaR	Intercellular adhesion regulator; Represses transcription of the icaADBC operon necessary for biofilm production.
+13	norR	176279.SERP0342	norR	Transcriptional regulator, MarR family; Identified by match to protein family HMM PF01047.
+14	rot	176279.SERP1322	rot	Repressor of toxins; Global regulator with both positive and negative effects that mediates modulation of several genes involved in virulence.
+15	sarR	176279.SERP1876	sarR	Staphylococcal accessory regulator R; Identified by similarity to EGAD:42500; match to protein family HMM TIGR01889.
+16	sarV	176279.SERP1849	sarV	Staphylococcal accessory regulator V; Identified by match to protein family HMM TIGR01889.
+17	sarY	176279.SERP1878	sarY	Staphylococcal accessory regulator Y; Identified by similarity to OMNI:NTL01SA2182; match to protein family HMM TIGR01889.
+18	sepA	176279.SERP2252	sepA	Extracellular elastase precursor; Extracellular zinc metalloprotease.
+19	SERP0018	176279.SERP0018	SERP0018	Lipase, putative; Identified by match to protein family HMM PF04650; match to protein family HMM TIGR01168.
+20	SERP0026	176279.SERP0026	SERP0026	sdrF protein, truncation; Identified by match to protein family HMM PF04650; match to protein family HMM TIGR01168.
+21	SERP0030	176279.SERP0030	SERP0030	Conserved hypothetical protein; Identified by similarity to OMNI:NTL01SA2428; Belongs to the UPF0346 family.
+23	SERP0054	176279.SERP0054	SERP0054	Conserved hypothetical protein; Identified by similarity to OMNI:NTL01SA0377.
+24	SERP0055	176279.SERP0055	SERP0055	Hypothetical protein; Identified by Glimmer2; putative.
+25	SERP0094	176279.SERP0094	SERP0094	Cysteine synthase/cystathionine beta-synthase family protein; Identified by match to protein family HMM PF00291.
+26	SERP0095	176279.SERP0095	SERP0095	Identified by match to protein family HMM PF01053.
+27	SERP0196	176279.SERP0196	tarI	4-diphosphocytidyl-2C-methyl-D-erythritol synthase, putative; Catalyzes the transfer of the cytidylyl group of CTP to D- ribitol 5-phosphate.
+28	SERP0197	176279.SERP0197	tarJ	Alcohol dehydrogenase, zinc-containing; Catalyzes the NADPH dependent reduction of D-ribulose 5- phosphate to D-ribitol 5-phosphate; Belongs to the zinc-containing alcohol dehydrogenase family.
+29	SERP0198	176279.SERP0198	SERP0198	Teichoic acid biosynthesis protein, putative; Identified by match to protein family HMM PF04464.
+30	SERP0245	176279.SERP0245	SERP0245	Transporter, putative; Identified by match to protein family HMM PF03176.
+31	SERP0275	176279.SERP0275	SERP0275	Conserved hypothetical protein; Identified by similarity to GP:2879913.
+32	SERP0343	176279.SERP0343	SERP0343	Hypothetical protein; Identified by Glimmer2; putative.
+33	SERP0422	176279.SERP0422	SERP0422	LysM domain protein; Identified by match to protein family HMM PF01476; match to protein family HMM PF05257.
+34	SERP0466	176279.SERP0466	SERP0466	Cold shock protein, CSD family; Identified by match to protein family HMM PF00313.
+35	SERP0635	176279.SERP0635	SERP0635	Transcriptional regulator, MarR family; Identified by match to protein family HMM PF01047.
+36	SERP0719	176279.SERP0719	SERP0719	Cell wall surface anchor family protein; Identified by match to protein family HMM PF00746; match to protein family HMM PF04650; match to protein family HMM TIGR01167; match to protein family HMM TIGR01168.
+37	SERP0895	176279.SERP0895	SERP0895	Conserved hypothetical protein; Identified by similarity to GP:14247097.
+38	SERP0950	176279.SERP0950	SERP0950	Peptide ABC transporter, ATP-binding protein, putative; Identified by similarity to EGAD:89055; match to protein family HMM PF00005.
+39	SERP0954	176279.SERP0954	SERP0954	Conserved hypothetical protein; Identified by similarity to OMNI:SA1418.
+40	SERP0956	176279.SERP0956	SERP0956	Phosphate transport system regulatory protein PhoU, putative; Plays a role in the regulation of phosphate uptake.
+41	SERP0957	176279.SERP0957	pstB	Phosphate ABC transporter, ATP-binding protein; Part of the ABC transporter complex PstSACB involved in phosphate import. Responsible for energy coupling to the transport system; Belongs to the ABC transporter superfamily. Phosphate importer (TC 3.A.1.7) family.
+42	SERP0958	176279.SERP0958	SERP0958	Phosphate ABC transporter, permease protein; Identified by match to protein family HMM PF00528; match to protein family HMM TIGR00974.
+43	SERP0959	176279.SERP0959	SERP0959	Phosphate ABC transporter, permease protein; Part of the binding-protein-dependent transport system for phosphate; probably responsible for the translocation of the substrate across the membrane; Belongs to the binding-protein-dependent transport system permease family. CysTW subfamily.
+44	SERP0960	176279.SERP0960	pstS	Phosphate ABC transporter, phosphate-binding protein; Part of the ABC transporter complex PstSACB involved in phosphate import.
+45	SERP1131	176279.SERP1131	SERP1131	Hypothetical protein; Identified by Glimmer2; putative.
+46	SERP1259	176279.SERP1259	SERP1259	IS256-like transposase; Identified by similarity to EGAD:22488; match to protein family HMM PF00872.
+47	SERP1316	176279.SERP1316	SERP1316	Cell wall surface anchor family protein; Identified by match to protein family HMM PF00746; match to protein family HMM PF04650; match to protein family HMM TIGR01167; match to protein family HMM TIGR01168.
+48	SERP1483	176279.SERP1483	SERP1483	Cell wall surface anchor family protein; Identified by match to protein family HMM PF00746; match to protein family HMM TIGR01167.
+49	SERP1499	176279.SERP1499	SERP1499	Conserved hypothetical protein; Identified by similarity to OMNI:NTL01SA1924; match to protein family HMM PF01206; Belongs to the sulfur carrier protein TusA family.
+50	SERP1877	176279.SERP1877	SERP1877	Conserved hypothetical protein; Identified by similarity to OMNI:NTL01SA2181.
+51	SERP1879	176279.SERP1879	SERP1879	Transcriptional regulator, AraC family; Identified by match to protein family HMM PF00165.
+52	SERP1951	176279.SERP1951	hrtA	ABC transporter, ATP-binding protein; Part of the ABC transporter complex hrt involved in hemin import. Responsible for energy coupling to the transport system (By similarity).
+53	SERP1952	176279.SERP1952	hrtB	ABC transporter, permease protein; Part of the ABC transporter complex hrt involved in hemin import. Responsible for the translocation of the substrate across the membrane (By similarity).
+54	SERP1974	176279.SERP1974	SERP1974	Conserved hypothetical protein; Identified by similarity to OMNI:SA2381.
+55	SERP1978	176279.SERP1978	SERP1978	Identified by match to protein family HMM PF00881.
+56	SERP2003	176279.SERP2003	SERP2003	Amino acid ABC transporter, ATP-binding protein; Identified by similarity to EGAD:33113; match to protein family HMM PF00005.
+57	SERP2004	176279.SERP2004	SERP2004	Amino acid ABC transporter, permease protein; Identified by similarity to EGAD:28090; match to protein family HMM PF00528; match to protein family HMM TIGR01726.
+58	SERP2005	176279.SERP2005	SERP2005	Amino acid ABC transporter, amino acid-binding protein; Identified by similarity to SP:P42199; match to protein family HMM PF00497.
+59	SERP2061	176279.SERP2061	SERP2061	Transcriptional regulator, MerR family; Identified by match to protein family HMM PF00376.
+60	SERP2063	176279.SERP2063	SERP2063	Esterase, putative; Identified by similarity to SP:P22862.
+61	SERP2148	176279.SERP2148	SERP2148	Conserved hypothetical protein; Identified by similarity to OMNI:NTL01SA2241.
+62	SERP2149	176279.SERP2149	SERP2149	Hypothetical protein; Identified by Glimmer2; putative.
+63	SERP2167	176279.SERP2167	SERP2167	Lipoprotein, putative.
+64	SERP2212	176279.SERP2212	SERP2212	Conserved domain protein; Identified by similarity to EGAD:108772.
+65	SERP2251	176279.SERP2251	argR-2	Transcriptional regulator, ArgR family; Regulates arginine biosynthesis genes.
+66	SERP2263	176279.SERP2263	SERP2263	N-acetylmuramoyl-L-alanine amidase domain protein; Identified by match to protein family HMM PF01832; match to protein family HMM PF05257.
+67	SERP2265	176279.SERP2265	SERP2265	Organic hydroperoxide resistance protein, putative; Identified by similarity to SP:O68390; match to protein family HMM PF02566; Belongs to the OsmC/Ohr family.
+68	SERP2281	176279.SERP2281	SERP2281	Serine threonine rich antigen; Identified by match to protein family HMM PF05345.
+69	SERP2282	176279.SERP2282	SERP2282	Hypothetical protein; Identified by Glimmer2; putative.
+70	SERP2283	176279.SERP2283	SERP2283	Phosphonate ABC transporter, permease protein; Identified by match to protein family HMM PF00528.
+71	SERP2284	176279.SERP2284	SERP2284	Phosphonate ABC transporter, permease protein; Identified by match to protein family HMM PF00528.
+72	SERP2285	176279.SERP2285	phnC	Phosphonate ABC transporter, ATP-binding protein; Part of the ABC transporter complex PhnCDE involved in phosphonates import. Responsible for energy coupling to the transport system; Belongs to the ABC transporter superfamily. Phosphonates importer (TC 3.A.1.9.1) family.
+73	SERP2286	176279.SERP2286	SERP2286	Phosphonate ABC transporter, phosphonate-binding protein.
+74	SERP2298	176279.SERP2298	SERP2298	Hypothetical protein; Identified by Glimmer2; putative.
+75	SERP2299	176279.SERP2299	SERP2299	Identified by match to protein family HMM PF00797; Belongs to the arylamine N-acetyltransferase family.
+76	SERP2336	176279.SERP2336	SERP2336	Lipase, putative; Identified by similarity to SP:Q02510; match to protein family HMM PF04650; match to protein family HMM TIGR01168.
+77	SERP2343	176279.SERP2343	SERP2343	Conserved hypothetical protein; Identified by similarity to OMNI:SA0709; match to protein family HMM PF03610.
+78	SERP2353	176279.SERP2353	SERP2353	Membrane protein, putative; Identified by match to protein family HMM PF03606.
+79	SERP2355	176279.SERP2355	SERP2355	Amino acid ABC transporter, permease protein; Identified by similarity to EGAD:109206; match to protein family HMM PF00528.
+81	SERP2491	176279.SERP2491	SERP2491	Membrane protein, putative; Identified by match to protein family HMM PF03606.
+82	SERP2526	176279.SERP2526	SERP2526	IS431mec-like transposase; Identified by similarity to OMNI:SA0028; match to protein family HMM PF00665.
+83	SERP2527	176279.SERP2527	SERP2527	Conserved hypothetical protein; Identified by similarity to OMNI:SA0027.
+84	sspA	176279.SERP1397	sspA	Glutamyl endopeptidase precursor SspA; Exhibits a significant hydrolytic activity for the carbonyl side of glutamic acid. Shows activity toward human fibronectin and type 1 collagen (By similarity).
+85	sspB	176279.SERP2390	sspB	Cysteine protease precursor SspB; Cysteine protease able to cleave elastin, insulin, myoglobin, fibronectin, fibrinogen, HMW-kininogen, alpha-1-protease inhibitor and alpha-1-antitrypsin. Along with other extracellular proteases may contribute to the colonization and infection of human tissues (By similarity).
+86	sspC	176279.SERP2391	sspC	SspC protein; Identified by similarity to OMNI:SA1971.
