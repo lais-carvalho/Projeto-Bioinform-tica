@@ -1,7 +1,7 @@
 # Bioinformatic-project
 Course work "Bioinformatics Project"
 
-Project: "Identification of the genetic regulations involved in resistance to the antibiotics vancomycin and daptomycin in species of the coagulase-negative staphylococci group"
+Project: "Identificação das regulações genéticas envolvidas na resistência aos antibióticos vancomicina e daptomicina em espécies do grupo estafilococos coagulase-negativos"
 
 Student:
 - Laís Cristine Carvalho
